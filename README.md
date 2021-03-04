@@ -1,6 +1,10 @@
-# bottom_navigation_xd
+# Bottom Navigation Custom
 
-A new Flutter project.
+A new Flutter bottom navigation concept for modern ui designs.
+
+### Screenshot
+![bottom-nav-flutter](https://user-images.githubusercontent.com/37204706/109962947-d7995b80-7d11-11eb-8672-71920cb7ba99.jpg)
+
 
 ## Getting Started
 
